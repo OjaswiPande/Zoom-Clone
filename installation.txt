@@ -1,0 +1,12 @@
+npm init
+npm install express
+npm install -g nodemon
+nodemon ./server.js
+npm install uuid
+npm install socket.io
+npm install peer
+
+webrtc
+peersocket
+id
+v4
